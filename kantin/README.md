@@ -1,10 +1,11 @@
 # Aplikasi Pemesanan Kantin UI
-### Tugas Akhir — Algoritma dan Pemrograman | Teknik Komputer UI
+### Tugas Akhir — Algoritma dan Pemrograman | Teknik Elektro UI
 
 ---
 
 ## Anggota Kelompok
-- (isi nama anggota)
+- Dean Gotawa Athaila
+- Adiy Wiratama Alpi
 
 ---
 
