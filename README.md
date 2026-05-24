@@ -1,4 +1,4 @@
-# Aplikasi Pemesanan Kantin UI
+# Aplikasi Pemesanan Kantin Teknik
 ### Final Project — Algoritma dan Pemrograman | Teknik Elektro UI
 
 ---
