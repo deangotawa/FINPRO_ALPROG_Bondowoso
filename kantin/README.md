@@ -127,3 +127,16 @@ make
 | 15 | Teh Tarik Panas | Rp8.000 |
 | 16 | Es Pisang Ijo | Rp10.000 |
 | 17 | Puding Coklat | Rp8.000 |
+
+Input di terminal 1
+g++ -std=c++17 -o server.exe server.cpp -lws2_32
+g++ -std=c++17 -o client.exe client.cpp -lws2_32
+
+input di terminal 2
+.\server.exe
+
+input di terminal 3
+.\client.exe
+
+
+
